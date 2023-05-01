@@ -898,6 +898,8 @@ body {
 
 /* 1:19:00 */
 
+/* Also switch branch to second when start bulding */
+
 .hover\:bg-brightRedLight:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(12 88% 69% / var(--tw-bg-opacity));
